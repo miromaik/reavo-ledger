@@ -3,5 +3,460 @@
     "name": "GitHub",
     "slug": "github",
     "url": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service"
+  },
+  {
+    "name": "Google",
+    "slug": "google",
+    "url": "https://policies.google.com/terms"
+  },
+  {
+    "name": "Facebook",
+    "slug": "facebook",
+    "url": "https://www.facebook.com/legal/terms"
+  },
+  {
+    "name": "Twitter/X",
+    "slug": "twitter",
+    "url": "https://twitter.com/en/tos"
+  },
+  {
+    "name": "Instagram",
+    "slug": "instagram",
+    "url": "https://help.instagram.com/581066165581870"
+  },
+  {
+    "name": "LinkedIn",
+    "slug": "linkedin",
+    "url": "https://www.linkedin.com/legal/user-agreement"
+  },
+  {
+    "name": "TikTok",
+    "slug": "tiktok",
+    "url": "https://www.tiktok.com/legal/page/row/terms-of-service/en"
+  },
+  {
+    "name": "YouTube",
+    "slug": "youtube",
+    "url": "https://www.youtube.com/t/terms"
+  },
+  {
+    "name": "Reddit",
+    "slug": "reddit",
+    "url": "https://www.redditinc.com/policies/user-agreement"
+  },
+  {
+    "name": "Discord",
+    "slug": "discord",
+    "url": "https://discord.com/terms"
+  },
+  {
+    "name": "Twitch",
+    "slug": "twitch",
+    "url": "https://www.twitch.tv/p/en/legal/terms-of-service/"
+  },
+  {
+    "name": "WhatsApp",
+    "slug": "whatsapp",
+    "url": "https://www.whatsapp.com/legal/terms-of-service"
+  },
+  {
+    "name": "Telegram",
+    "slug": "telegram",
+    "url": "https://telegram.org/tos"
+  },
+  {
+    "name": "Signal",
+    "slug": "signal",
+    "url": "https://signal.org/legal/"
+  },
+  {
+    "name": "Snapchat",
+    "slug": "snapchat",
+    "url": "https://www.snap.com/en-US/terms"
+  },
+  {
+    "name": "Pinterest",
+    "slug": "pinterest",
+    "url": "https://policy.pinterest.com/en/terms-of-service"
+  },
+  {
+    "name": "Tumblr",
+    "slug": "tumblr",
+    "url": "https://www.tumblr.com/policy/terms-of-service"
+  },
+  {
+    "name": "Medium",
+    "slug": "medium",
+    "url": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+  },
+  {
+    "name": "Slack",
+    "slug": "slack",
+    "url": "https://slack.com/terms-of-service"
+  },
+  {
+    "name": "Spotify",
+    "slug": "spotify",
+    "url": "https://www.spotify.com/legal/end-user-agreement/"
+  },
+  {
+    "name": "Netflix",
+    "slug": "netflix",
+    "url": "https://help.netflix.com/legal/termsofuse"
+  },
+  {
+    "name": "Disney+",
+    "slug": "disney-plus",
+    "url": "https://www.disneyplus.com/legal/subscriber-agreement"
+  },
+  {
+    "name": "Amazon Prime Video",
+    "slug": "amazon-prime-video",
+    "url": "https://www.primevideo.com/help/ref=atv_hp_nd_cnt?nodeId=202095490"
+  },
+  {
+    "name": "Hulu",
+    "slug": "hulu",
+    "url": "https://www.hulu.com/subscriber-agreement"
+  },
+  {
+    "name": "Apple TV+",
+    "slug": "apple-tv-plus",
+    "url": "https://www.apple.com/legal/internet-services/itunes/us/terms.html"
+  },
+  {
+    "name": "Amazon",
+    "slug": "amazon",
+    "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=508088"
+  },
+  {
+    "name": "eBay",
+    "slug": "ebay",
+    "url": "https://www.ebay.com/help/policies/member-behaviour-policies/user-agreement"
+  },
+  {
+    "name": "PayPal",
+    "slug": "paypal",
+    "url": "https://www.paypal.com/us/legalhub/useragreement-full"
+  },
+  {
+    "name": "Stripe",
+    "slug": "stripe",
+    "url": "https://stripe.com/legal/ssa"
+  },
+  {
+    "name": "Etsy",
+    "slug": "etsy",
+    "url": "https://www.etsy.com/legal/terms-of-use"
+  },
+  {
+    "name": "Shopify",
+    "slug": "shopify",
+    "url": "https://www.shopify.com/legal/terms"
+  },
+  {
+    "name": "Venmo",
+    "slug": "venmo",
+    "url": "https://venmo.com/legal/us-user-agreement/"
+  },
+  {
+    "name": "Apple",
+    "slug": "apple",
+    "url": "https://www.apple.com/legal/internet-services/itunes/us/terms.html"
+  },
+  {
+    "name": "Microsoft",
+    "slug": "microsoft",
+    "url": "https://www.microsoft.com/en-us/servicesagreement"
+  },
+  {
+    "name": "Dropbox",
+    "slug": "dropbox",
+    "url": "https://www.dropbox.com/terms"
+  },
+  {
+    "name": "OneDrive",
+    "slug": "onedrive",
+    "url": "https://www.microsoft.com/en-us/servicesagreement"
+  },
+  {
+    "name": "Google Drive",
+    "slug": "google-drive",
+    "url": "https://www.google.com/drive/terms-of-service/"
+  },
+  {
+    "name": "Zoom",
+    "slug": "zoom",
+    "url": "https://explore.zoom.us/en/terms/"
+  },
+  {
+    "name": "Adobe",
+    "slug": "adobe",
+    "url": "https://www.adobe.com/legal/terms.html"
+  },
+  {
+    "name": "Canva",
+    "slug": "canva",
+    "url": "https://www.canva.com/policies/terms-of-use/"
+  },
+  {
+    "name": "Notion",
+    "slug": "notion",
+    "url": "https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac"
+  },
+  {
+    "name": "WordPress.com",
+    "slug": "wordpress",
+    "url": "https://wordpress.com/tos/"
+  },
+  {
+    "name": "Wix",
+    "slug": "wix",
+    "url": "https://www.wix.com/about/terms-of-use"
+  },
+  {
+    "name": "Squarespace",
+    "slug": "squarespace",
+    "url": "https://www.squarespace.com/terms-of-service"
+  },
+  {
+    "name": "GoDaddy",
+    "slug": "godaddy",
+    "url": "https://www.godaddy.com/legal/agreements/universal-terms-of-service-agreement"
+  },
+  {
+    "name": "Steam",
+    "slug": "steam",
+    "url": "https://store.steampowered.com/subscriber_agreement/"
+  },
+  {
+    "name": "Epic Games",
+    "slug": "epic-games",
+    "url": "https://www.epicgames.com/site/en-US/tos"
+  },
+  {
+    "name": "PlayStation Network",
+    "slug": "playstation",
+    "url": "https://www.playstation.com/en-us/legal/terms-of-use/"
+  },
+  {
+    "name": "Xbox Live",
+    "slug": "xbox",
+    "url": "https://www.xbox.com/en-US/legal/termsofuse"
+  },
+  {
+    "name": "Nintendo",
+    "slug": "nintendo",
+    "url": "https://accounts.nintendo.com/term/eula/US"
+  },
+  {
+    "name": "Roblox",
+    "slug": "roblox",
+    "url": "https://www.roblox.com/info/terms"
+  },
+  {
+    "name": "Minecraft",
+    "slug": "minecraft",
+    "url": "https://www.minecraft.net/en-us/terms"
+  },
+  {
+    "name": "League of Legends",
+    "slug": "league-of-legends",
+    "url": "https://www.riotgames.com/en/terms-of-service"
+  },
+  {
+    "name": "Fortnite",
+    "slug": "fortnite",
+    "url": "https://www.epicgames.com/site/en-US/tos"
+  },
+  {
+    "name": "Blizzard",
+    "slug": "blizzard",
+    "url": "https://www.blizzard.com/en-us/legal/fba4d00f-c7e4-4883-b8b9-1b4500a402ea/blizzard-end-user-license-agreement"
+  },
+  {
+    "name": "Uber",
+    "slug": "uber",
+    "url": "https://www.uber.com/legal/en/document/?name=general-terms-of-use"
+  },
+  {
+    "name": "Lyft",
+    "slug": "lyft",
+    "url": "https://www.lyft.com/terms"
+  },
+  {
+    "name": "Airbnb",
+    "slug": "airbnb",
+    "url": "https://www.airbnb.com/help/article/2908"
+  },
+  {
+    "name": "Booking.com",
+    "slug": "booking",
+    "url": "https://www.booking.com/content/terms.en-gb.html"
+  },
+  {
+    "name": "Expedia",
+    "slug": "expedia",
+    "url": "https://www.expedia.com/p/support/terms-of-use"
+  },
+  {
+    "name": "DoorDash",
+    "slug": "doordash",
+    "url": "https://www.doordash.com/terms/"
+  },
+  {
+    "name": "Uber Eats",
+    "slug": "uber-eats",
+    "url": "https://www.uber.com/legal/en/document/?name=general-terms-of-use"
+  },
+  {
+    "name": "GrubHub",
+    "slug": "grubhub",
+    "url": "https://www.grubhub.com/legal/terms-of-use"
+  },
+  {
+    "name": "Coursera",
+    "slug": "coursera",
+    "url": "https://www.coursera.org/about/terms"
+  },
+  {
+    "name": "Udemy",
+    "slug": "udemy",
+    "url": "https://www.udemy.com/terms/"
+  },
+  {
+    "name": "Khan Academy",
+    "slug": "khan-academy",
+    "url": "https://www.khanacademy.org/about/tos"
+  },
+  {
+    "name": "Duolingo",
+    "slug": "duolingo",
+    "url": "https://www.duolingo.com/terms"
+  },
+  {
+    "name": "AWS",
+    "slug": "aws",
+    "url": "https://aws.amazon.com/service-terms/"
+  },
+  {
+    "name": "Google Cloud",
+    "slug": "google-cloud",
+    "url": "https://cloud.google.com/terms"
+  },
+  {
+    "name": "Azure",
+    "slug": "azure",
+    "url": "https://azure.microsoft.com/en-us/support/legal/"
+  },
+  {
+    "name": "Heroku",
+    "slug": "heroku",
+    "url": "https://www.salesforce.com/company/legal/agreements/"
+  },
+  {
+    "name": "Vercel",
+    "slug": "vercel",
+    "url": "https://vercel.com/legal/terms"
+  },
+  {
+    "name": "Netlify",
+    "slug": "netlify",
+    "url": "https://www.netlify.com/legal/terms-of-use/"
+  },
+  {
+    "name": "Salesforce",
+    "slug": "salesforce",
+    "url": "https://www.salesforce.com/company/legal/agreements/"
+  },
+  {
+    "name": "Mailchimp",
+    "slug": "mailchimp",
+    "url": "https://mailchimp.com/legal/terms/"
+  },
+  {
+    "name": "HubSpot",
+    "slug": "hubspot",
+    "url": "https://legal.hubspot.com/terms-of-service"
+  },
+  {
+    "name": "Trello",
+    "slug": "trello",
+    "url": "https://www.atlassian.com/legal/customer-agreement"
+  },
+  {
+    "name": "Asana",
+    "slug": "asana",
+    "url": "https://asana.com/terms"
+  },
+  {
+    "name": "Strava",
+    "slug": "strava",
+    "url": "https://www.strava.com/legal/terms"
+  },
+  {
+    "name": "MyFitnessPal",
+    "slug": "myfitnesspal",
+    "url": "https://www.myfitnesspal.com/terms-of-service"
+  },
+  {
+    "name": "Peloton",
+    "slug": "peloton",
+    "url": "https://www.onepeloton.com/terms-of-service"
+  },
+  {
+    "name": "Tinder",
+    "slug": "tinder",
+    "url": "https://www.gotinder.com/terms"
+  },
+  {
+    "name": "Bumble",
+    "slug": "bumble",
+    "url": "https://bumble.com/en/terms"
+  },
+  {
+    "name": "Match.com",
+    "slug": "match",
+    "url": "https://www.match.com/registration/membagr.aspx"
+  },
+  {
+    "name": "Coinbase",
+    "slug": "coinbase",
+    "url": "https://www.coinbase.com/legal/user_agreement"
+  },
+  {
+    "name": "Binance",
+    "slug": "binance",
+    "url": "https://www.binance.com/en/terms"
+  },
+  {
+    "name": "Robinhood",
+    "slug": "robinhood",
+    "url": "https://robinhood.com/us/en/support/articles/robinhood-terms-and-conditions/"
+  },
+  {
+    "name": "Patreon",
+    "slug": "patreon",
+    "url": "https://www.patreon.com/policy/legal"
+  },
+  {
+    "name": "OnlyFans",
+    "slug": "onlyfans",
+    "url": "https://onlyfans.com/terms"
+  },
+  {
+    "name": "Substack",
+    "slug": "substack",
+    "url": "https://substack.com/tos"
+  },
+  {
+    "name": "Quora",
+    "slug": "quora",
+    "url": "https://www.quora.com/about/tos"
+  },
+  {
+    "name": "Stack Overflow",
+    "slug": "stack-overflow",
+    "url": "https://stackoverflow.com/legal/terms-of-service"
   }
 ]

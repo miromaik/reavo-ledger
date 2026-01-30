@@ -1,0 +1,2 @@
+Salesforce Legal
+Find legal information and resources whether you are a prospective or existing customer, partner or service provider. You'll find answers to questions about our agreement terms, policies, intellectual property, and compliance, as well as how we uphold Trust as our #1 value.

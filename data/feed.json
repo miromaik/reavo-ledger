@@ -1,22 +1,4 @@
 {
-  "updated_at": "2026-01-30T21:57:58.331824",
-  "items": [
-    {
-      "service": "Github",
-      "slug": "github",
-      "date": "2026-01-30",
-      "status": "yellow",
-      "summary": [
-        "Terms of Service updated"
-      ],
-      "diff_url": "",
-      "rating": "F",
-      "flags": [
-        "AI_TRAINING",
-        "PERPETUAL_LICENSE",
-        "DATA_SHARING",
-        "ACCOUNT_TERMINATION"
-      ]
-    }
-  ]
+  "updated_at": "2026-01-30T22:10:02.220533",
+  "items": []
 }
