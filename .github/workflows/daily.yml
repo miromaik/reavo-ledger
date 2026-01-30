@@ -1,0 +1,35 @@
+name: Reavo Daily Update
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Fetch ToS
+        run: python scripts/fetch_tos.py
+
+      - name: Build feed
+        run: python scripts/build_feed.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "reavo-bot"
+          git config user.email "bot@reavo.org"
+          git add .
+          git diff --cached --quiet || git commit -m "chore: update ToS"
+          git push

@@ -36,6 +36,11 @@ for service in services:
         continue
 
     file_path = TOS_DIR / f"{slug}.md"
-    file_path.write_text(text, encoding="utf-8")
+    old_text = file_path.read_text(encoding="utf-8") if file_path.exists() else None
 
-    print(f"✅ Saved {file_path}")
+    if old_text == text:
+        print(f"⏭️ No change for {name}")
+        continue
+
+    file_path.write_text(text, encoding="utf-8")
+    print(f"📝 Updated {file_path}")

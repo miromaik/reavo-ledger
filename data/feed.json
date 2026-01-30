@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-30T21:41:41.198425",
+  "updated_at": "2026-01-30T21:49:35.331287",
   "items": [
     {
       "service": "Github",
@@ -7,7 +7,7 @@
       "date": "2026-01-30",
       "status": "yellow",
       "summary": [
-        "Initial ToS snapshot created"
+        "Terms of Service updated"
       ],
       "diff_url": ""
     }
