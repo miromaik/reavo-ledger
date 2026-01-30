@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-30T21:49:35.331287",
+  "updated_at": "2026-01-30T21:57:58.331824",
   "items": [
     {
       "service": "Github",
@@ -9,7 +9,14 @@
       "summary": [
         "Terms of Service updated"
       ],
-      "diff_url": ""
+      "diff_url": "",
+      "rating": "F",
+      "flags": [
+        "AI_TRAINING",
+        "PERPETUAL_LICENSE",
+        "DATA_SHARING",
+        "ACCOUNT_TERMINATION"
+      ]
     }
   ]
 }

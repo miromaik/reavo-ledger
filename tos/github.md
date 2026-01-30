@@ -203,5 +203,3 @@ If any part of this Agreement is held invalid or unenforceable, that portion of 
 This Agreement may only be modified by a written amendment signed by an authorized representative of GitHub, or by the posting by GitHub of a revised version in accordance with Section Q. Changes to These Terms. These Terms of Service, together with the GitHub Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and GitHub relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
 6. Questions
 Questions about the Terms of Service? Contact us through the GitHub Support portal.
-
-test

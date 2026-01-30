@@ -1,7 +1,10 @@
+
 import subprocess
 import json
 from pathlib import Path
 from datetime import datetime
+from flags import detect_flags
+from rating import calculate_rating
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = BASE_DIR / "data"
@@ -23,14 +26,18 @@ items = []
 for file in changed_files:
     if file.startswith("tos/") and file.endswith(".md"):
         slug = Path(file).stem
-
+        content = Path(file).read_text(encoding="utf-8")
+        flags = detect_flags(content)
+        rating = calculate_rating(flags)
         items.append({
             "service": slug.capitalize(),
             "slug": slug,
             "date": datetime.utcnow().strftime("%Y-%m-%d"),
             "status": "yellow",
             "summary": ["Terms of Service updated"],
-            "diff_url": ""
+            "diff_url": "",
+            "rating": rating,
+            "flags": flags
         })
 
 feed = {
